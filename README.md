@@ -1,5 +1,7 @@
 # PCD-uts_uas-
+
 Teknik Informatika
+
 TI.22.A4
 ------------------------
 Nama kelompok :
@@ -9,4 +11,4 @@ Nama kelompok :
 4. Dimas adi nugraha ()
 
 ##UTS
-uAs
+##UAS

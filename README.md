@@ -1,7 +1,9 @@
 # PCD uts_uas
 
-|Teknik Informatika|
-|TI.22.A4|
+Teknik Informatika
+
+TI.22.A4
+
 ------------------------
 Nama kelompok :
 1. Mikael Rivaldo ()

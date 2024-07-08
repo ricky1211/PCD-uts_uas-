@@ -142,3 +142,15 @@ Berikut adalah hasil code diatas:
 
 
 ##UAS
+
+![image](https://github.com/ricky1211/PCD-uts_uas-/assets/115770247/303286c1-3992-4b14-a655-eb5f8e2b3dbf)
+
+![image](https://github.com/ricky1211/PCD-uts_uas-/assets/115770247/abe5666b-9b74-4b87-9cfe-e07ab12f6ded)
+
+![image](https://github.com/ricky1211/PCD-uts_uas-/assets/115770247/b99e6c15-f6ed-4c79-b533-98475764d239)
+
+![image](https://github.com/ricky1211/PCD-uts_uas-/assets/115770247/5395de5c-ebe0-4a76-9d10-df1afb3f3995)
+
+
+
+

@@ -15,7 +15,7 @@ Nama kelompok :
 
 Untuk codenya bisa mengunakan dibawah ini:
 
-```
+``` py
 import streamlit as st
 import cv2
 from PIL import Image, ImageEnhance

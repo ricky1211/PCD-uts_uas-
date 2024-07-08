@@ -1,19 +1,20 @@
-# PCD uts_uas
+# UAS-UTS Pengolahan Citra Digital
 
-Teknik Informatika
+Teknik Informatika 22 A4
 
-TI.22.A4
+|               NAMA              |    NIM    |
+| ------------------------------- | --------- |
+| Mikael Rivaldo                  | 312210378 |
+| Ricky Alfian Saputra            | 312210279 |
+| Rafi Maulana Firdaus            | 312210382 |
+| Dimas Adi Nugraha               | 312210409 |
 
-------------------------
-Nama kelompok :
-1. Mikael Rivaldo ()
-2. Rafi Maulana Firdaus ()
-3. Ricky alfian saputra ()
-4. Dimas adi nugraha ()
+------------------------------------------------
 
-##UTS
-
-Untuk codenya bisa mengunakan dibawah ini:
+## UTS (Udemy)
+### Face Eye Detection
+Program untuk mendeteksi wajah dan mata menggunakan OpenCV dan Streamlit.  
+Berikut Kode program nya :
 
 ``` py
 import streamlit as st
@@ -118,19 +119,17 @@ def main():
 if __name__ == "__main__":
     main()
 ```
-Karena disini saya mengunakan gambar #Ghozalli anda bisa mendownloadnya 
+# Face Detect :  
+Disini kami menggunakan foto Ghozali sebagai objek yang kami coba.
 
-![WhatsApp Image 2024-07-03 at 20 00 24](https://github.com/MikaelRivaldo/PCD-Streamlit/assets/115770247/d91d2449-c895-4101-a8fa-fc5712eae378)
+<img src="https://github.com/MikaelRivaldo/PCD-Streamlit/assets/115770247/d91d2449-c895-4101-a8fa-fc5712eae378" alt="WhatsApp Image 2024-07-03 at 20 00 24" width="300">
+  
+Berikut adalah hasil kode diatas:  
+<img src="https://github.com/ricky1211/PCD-uts_uas-/assets/115770247/57db3967-cc45-4fe0-815c-46d6b4e5b381" alt="image" width="300">
 
-
-Berikut adalah hasil code diatas:
-
-#Hasil detecht Muka
-
-![image](https://github.com/ricky1211/PCD-uts_uas-/assets/115770247/57db3967-cc45-4fe0-815c-46d6b4e5b381)
-
-#Hasil detecht Mata
-
+-----------------------------  
+# Hasil detect Mata :  
+Setelah deteksi wajah, kemudian eye detect.  
 ![image](https://github.com/ricky1211/PCD-uts_uas-/assets/115770247/33f00fa4-caa3-485a-9082-2ff583b6e5a1)
 
 

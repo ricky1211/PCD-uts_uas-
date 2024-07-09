@@ -155,6 +155,9 @@ Berikut adalah Codingan programnya:
 ![image](https://github.com/ricky1211/PCD-uts_uas-/assets/115770247/5395de5c-ebe0-4a76-9d10-df1afb3f3995)
 
 
+[Laporan Metadata UAS](https://github.com/ricky1211/PCD-uts_uas-/blob/main/LAPORAN%20UAS%20PCD%20Kelompok%205.pdf)
+
+
 
 
 

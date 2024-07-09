@@ -140,7 +140,7 @@ Setelah deteksi wajah, kemudian eye detect.
 
 
 
-## UAS
+## UAS (Image segmentation with K-means Clustering)
 
 ![image](https://github.com/ricky1211/PCD-uts_uas-/assets/115770247/303286c1-3992-4b14-a655-eb5f8e2b3dbf)
 
@@ -149,6 +149,8 @@ Setelah deteksi wajah, kemudian eye detect.
 ![image](https://github.com/ricky1211/PCD-uts_uas-/assets/115770247/b99e6c15-f6ed-4c79-b533-98475764d239)
 
 ![image](https://github.com/ricky1211/PCD-uts_uas-/assets/115770247/5395de5c-ebe0-4a76-9d10-df1afb3f3995)
+
+
 
 
 

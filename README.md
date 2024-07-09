@@ -140,7 +140,7 @@ Setelah deteksi wajah, kemudian eye detect.
 
 
 
-##UAS
+## UAS
 
 ![image](https://github.com/ricky1211/PCD-uts_uas-/assets/115770247/303286c1-3992-4b14-a655-eb5f8e2b3dbf)
 
